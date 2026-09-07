@@ -12,7 +12,7 @@ if (savedHistory) {
     conversationHistory = JSON.parse(savedHistory);
 }
 
-const API_URL = "https://server-4f38wwd46-aisyahalfinaas-projects.vercel.app/api/chat";
+const API_URL = "https://server-xi-five-77.vercel.app/api/chat";
 
 
 function addMessage(message, sender) {
